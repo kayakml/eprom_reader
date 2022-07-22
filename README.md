@@ -11,3 +11,7 @@ After reading of one memory location of EPROM , data is immediately sent to the 
 
 https://user-images.githubusercontent.com/30715872/180446857-83c922ea-3dff-461c-b6cf-f25af53e68be.mp4
 
+
+
+https://user-images.githubusercontent.com/30715872/180448787-f0b75b9a-a588-44a0-a512-32a8c543aa17.mp4
+
